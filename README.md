@@ -1,8 +1,10 @@
-Very Basic Review Application
+# Very Basic Review Application
 
-(created from someone that had no knowledge of Django before to learn the basics)
+**Created from someone that had no knowledge of Django before**
 
-IMPORTANT 
+ > For learning purposes :smile:
+
+# IMPORTANT 
 Make sure to have....
  - Installed Python3 and Django
  - Download Home-brew (python3)
@@ -12,9 +14,14 @@ Make sure to have....
   
  To run, open your terminal and...
  
- - Activate Your virtualenv: $source ./env/bin/activate
+__Activate Your virtualenv:__
+ >``` $source ./env/bin/activate```
  
- - Go to the projects folder: $cd Development $cd django_basic
+__Go to the projects folder__ 
+ >```$cd Development``` 
+ >```$cd django_basic```
  
- - Run Django Server: $python3 manage.py runserver
+__Run Django Server__
+ >```$python3 manage.py runserver```
  
+__[Begin!]__
