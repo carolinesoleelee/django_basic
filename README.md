@@ -1,4 +1,5 @@
 Very Basic Review Application
+
 (created from someone that had no knowledge of Django before to learn the basics)
 
 IMPORTANT 
@@ -7,13 +8,13 @@ Make sure to have....
  - Download Home-brew (python3)
  - Downloaded pip 
  - Downloaded virtualenv and virtualvwrapper
- - Got familiarized with the different versions of python
+ - Get familiarized with the different versions of python because you will be using the latest python version: python3
   
  To run, open your terminal and...
  
- - Activate Your virtualenv
- $ source ./env/bin/activate
+ - Activate Your virtualenv: $source ./env/bin/activate
  
- - Run Django Server: 
- $ python3 manage.py runserver
+ - Go to the projects folder: $cd Development $cd django_basic
+ 
+ - Run Django Server: $python3 manage.py runserver
  
