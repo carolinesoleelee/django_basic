@@ -4,10 +4,10 @@ Very Basic Review Application
 IMPORTANT 
 Make sure to have....
  - Installed Python3 and Django
-	^Download Home-brew (python3)
-	^ Downloaded pip 
-  ^ Downloaded virtualenv and virtualvwrapper
-  ^ Got familiarized with the different versions of python
+ - Download Home-brew (python3)
+ - Downloaded pip 
+ - Downloaded virtualenv and virtualvwrapper
+ - Got familiarized with the different versions of python
   
  To run, open your terminal and...
  
