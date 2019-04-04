@@ -1,0 +1,9 @@
+{% extends 'reviews/base.html'%}
+{% block content %}
+    {% for rev in rev%}
+        <h1>{{ rev.res_name }}</h1>
+        <p><strong>{{ rev.user }}</strong></p>
+        <p>{{ rev.review }}</p>
+        <p>{{ rev.date_posted }}</p>
+    {% endfor %}
+{% endblock content %}
